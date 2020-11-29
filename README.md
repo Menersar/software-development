@@ -2,8 +2,8 @@
 Repository for Software Development files
 
 ## Content
-* [CCD](#CCD)
+* [ccd-tictactoe](#ccd-tictactoe)
 
-## CCD
-A tic-tac-toe program written in Java for the Clean Code Development task.
+## ccd-tictactoe
+Contains the source code of a tic-tac-toe program written in Java for the Clean Code Development task.
 * TicTacToe.java
